@@ -24,5 +24,9 @@ Este projeto foi desenvolvido como parte do desafio proposto pela disciplina de 
 ## 💻 Como executar
 
 1. Compile o código:
-   ```bash
+   
    gcc logicaSuperTrunfo.c -o supertrunfo
+
+2. Execute no terminal: 
+
+./supertrunfo
